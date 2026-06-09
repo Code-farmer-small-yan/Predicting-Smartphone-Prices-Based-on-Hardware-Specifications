@@ -1,0 +1,2 @@
+# Predicting-Smartphone-Prices-Based-on-Hardware-Specifications
+Classify mobile phone price tiers by hardware specs: battery capacity, Bluetooth availability, CPU clock speed, dual SIM, front camera megapixels, 4G support, internal storage, thickness, weight, CPU core count, rear camera megapixels, screen resolution height &amp; width, RAM, screen height &amp; width, talk time, 3G, touch screen and Wi-Fi support.
